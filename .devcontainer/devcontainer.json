@@ -1,5 +1,5 @@
 {
-  "name": "docker-ml-template",
+  "name": "madori",
   "dockerComposeFile": "../docker-compose.yml",
   "service": "dev",
   "workspaceFolder": "/home/docker",
@@ -28,6 +28,6 @@
       "settings": {}
     }
   },
-  "postCreateCommand": "cd docker-ml-template && make setup; make install",
+  "postCreateCommand": "cd madori && make setup; make install",
   "shutdownAction": "none"
 }

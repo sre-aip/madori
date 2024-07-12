@@ -1,4 +1,4 @@
-PROJECT_DIR=/home/docker/docker-ml-template
+PROJECT_DIR=/home/docker/madori
 
 # devcontainer------------------------------------------------------------
 .PHONY: set-prompt

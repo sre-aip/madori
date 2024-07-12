@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "docker-ml-template"
+name = "madori"
 version = "0.1.0"
-description = "Project template for docker-ml-template"
+description = "Project template for madori"
 authors = ["xxx <xxx@gmail.com>"]
 readme = "README.md"
 
